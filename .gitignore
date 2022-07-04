@@ -12,7 +12,10 @@ target/
 .settings
 .springBeans
 .sts4-cache
-
+.p12
+.key
+.crt
+.ca-bundle
 ### IntelliJ IDEA ###
 .idea
 *.iws
